@@ -1,4 +1,4 @@
-# Words of Quotes App
+# Quotes Generator
 
 ## Overview
 The quotes App is a simple React application that fetches and displays random pieces of quotes from an external API. It allows users to fetch new quotes with the click of a button, providing them with inspirational or thought-provoking quotes on demand.
