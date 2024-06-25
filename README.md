@@ -16,7 +16,7 @@ Follow these steps to install and run the application locally:
 
 ### Clone the Repository
 
-  git clone https://github.com/ms-maheswari/Quotes-Generator.git
+ 
 
 ### Navigate to the project
   
