@@ -7,11 +7,10 @@
 body
 {
   background: linear-gradient(125deg, #47f9e6 0%, #651fff 100%);
-  background: url('https://i.pinimg.com/564x/ea/a2/a5/eaa2a5369a715b81b8836a1d7de1110d.jpg');
-  background-size: cover;
-  background-position: center;
+  background: url('https://img.freepik.com/free-photo/modern-office-desk-composition-with-technological-device_23-2147915809.jpg');
+  background-size: calc(100%);
+  
   background-repeat: no-repeat;
-  height: 100%;
   width: 100%;
   overflow: hidden;
 
@@ -31,8 +30,8 @@ body
 
 .card {
   background: rgba(255, 255, 255, 0.1);
-  backdrop-filter: blur(0px);
-  -webkit-backdrop-filter: blur(0px); /* For Safari support */
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px); /* For Safari support */
   width: 100%;
   max-width: 500px;
   padding: 20px;
@@ -45,7 +44,7 @@ body
 }
 
 .heading {
-  color: whitesmoke;
+  color: rgb(250, 249, 255);
   font-style: italic;
   font-size: 1.5em;
   line-height: 1.4;
